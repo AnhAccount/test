@@ -33,4 +33,4 @@ button_generator.clicked.connect(show_winner)
 
 # Show the win and run the app
 main_win.show()
-app.exec_()
+app.exec_() medushudhs
